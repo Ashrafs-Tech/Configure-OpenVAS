@@ -1,4 +1,4 @@
-# Configure OpenVAS
+# Unauthenticated Scan
 
 ![image](https://github.com/Ashrafs-Tech/Configure-OpenVAS/assets/166546026/02fa4e0d-af3c-45ea-827e-058555314f36)
 
